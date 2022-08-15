@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingGame", "CodingGame\CodingGame.csproj", "{A939F6DC-AC55-4635-B67F-13AEF3B6C7D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingGameTests", "CodingGameTests\CodingGameTests.csproj", "{44EFBDEB-88E0-4864-B4BE-59562F577C8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A939F6DC-AC55-4635-B67F-13AEF3B6C7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A939F6DC-AC55-4635-B67F-13AEF3B6C7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A939F6DC-AC55-4635-B67F-13AEF3B6C7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EFBDEB-88E0-4864-B4BE-59562F577C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EFBDEB-88E0-4864-B4BE-59562F577C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EFBDEB-88E0-4864-B4BE-59562F577C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EFBDEB-88E0-4864-B4BE-59562F577C8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
